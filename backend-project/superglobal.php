@@ -78,7 +78,7 @@ h2>";
 
 // <SCRIpt>malicious code displayed as plan text</SCRIpt>
 
-// the htmlspecialchars is a check to prevent harmful chars for entering the fold field
+// the htmlspecialchars is a check to prevent harmful chars for entering the fold field.
 
 
 
